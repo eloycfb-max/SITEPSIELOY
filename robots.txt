@@ -1,0 +1,13 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-AdsBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://eloybezerra.com.br/sitemap.xml

@@ -1,0 +1,32 @@
+# Eloy Bezerra — Psicólogo Clínico
+
+> Site oficial do psicólogo clínico Eloy Bezerra, CRP 05/70122, com atendimento psicológico para adultos e idosos, presencial na Barra da Tijuca, Rio de Janeiro, e online.
+
+## Profissional
+
+- [Sobre Eloy Bezerra](/sobre): Informações profissionais, formação e atuação clínica.
+- [Contato](/contato): Informações para entrar em contato e solicitar atendimento.
+
+## Serviços
+
+- [Psicoterapia para Adultos](/psicoterapia-adultos): Informações sobre psicoterapia para adultos e principais questões trabalhadas.
+- [Psicoterapia para Idosos](/psicoterapia-idosos): Informações sobre psicoterapia voltada à população idosa.
+- [Terapia Cognitivo-Comportamental](/terapia-cognitivo-comportamental): Explicação sobre TCC e sua utilização na psicoterapia.
+- [Reabilitação Cognitiva](/reabilitacao-cognitiva): Informações sobre reabilitação cognitiva e funções cognitivas.
+
+## Atendimento
+
+- [Atendimento presencial e online](/atendimento): Modalidades de atendimento, localização do consultório e informações de acesso.
+
+## Informações principais
+
+- Nome: Eloy Bezerra
+- Profissão: Psicólogo Clínico
+- CRP: 05/70122
+- Público: Adultos e idosos
+- Localização: Barra da Tijuca, Rio de Janeiro/RJ
+- Modalidades: Presencial e online
+
+## Contato
+
+- [WhatsApp](/contato): Canal principal para informações e agendamento.
